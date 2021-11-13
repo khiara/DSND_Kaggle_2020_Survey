@@ -2,11 +2,11 @@
 For Udacity Data Science Nanodegree
 
 ## Table of Contents
-  1. Installation
-  2. Project Motivation
-  3. File Descriptions
-  4. Results
-  5. Licensing, Authors, and Acknowledgments
+  1. [Installation](#1--installation)
+  2. [Project Motivation](#2--project-motivation)
+  3. [File Descriptions](#3--file-descriptions)
+  4. [Results](#4--results)
+  5. [Licensing, Authors, and Acknowledgments](#5--licensing-authors-and-acknowledgments)
 
 ## 1. Installation
 There should be no need to install any libraries to run the analysis and visualizations beyond the Anaconda distribution of Python, version 3.*. 

@@ -24,4 +24,4 @@ There is a single [notebook](https://github.com/khiara/DSND_Kaggle_2020_Survey/b
 A full write up of the findings and my analysis can be found in a Medium post here
 
 ## 5. Licensing, Authors, and Acknowledgments
-Thanks go to [Udacity's](Udacity.com) Data Science Nanodegree Program for the project idea, and to their mentors and community for guidance, tips, and encouragement. Thanks also to [Kaggle](kaggle.com) for the data.
+Thanks go to [Udacity's](https://Udacity.com) Data Science Nanodegree Program for the project idea, and to their mentors and community for guidance, tips, and encouragement. Thanks also to [Kaggle](https://kaggle.com) for the data.
